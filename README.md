@@ -1,2 +1,1 @@
-# EventStore
-Contains Python API
+
